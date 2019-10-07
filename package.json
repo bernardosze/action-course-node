@@ -1,0 +1,22 @@
+{
+  "name": "action-course-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardosze/action-course-node.git"
+  },
+  "author": "Bernardo Sze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardosze/action-course-node/issues"
+  },
+  "homepage": "https://github.com/bernardosze/action-course-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
