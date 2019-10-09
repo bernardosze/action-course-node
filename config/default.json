@@ -1,0 +1,3 @@
+{
+	"mongoConn": "mongodb+srv://bernardosze:1234@nexus-zero-ta0pk.mongodb.net/app?retryWrites=true&w=majority"
+}
