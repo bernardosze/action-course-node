@@ -14,6 +14,7 @@ app.use(express.json({ extented: false }));
 app.use('/api/auth', require('./routes/api/auth'));
 app.use('/api/user', require('./routes/api/user'));
 app.use('/api/project', require('./routes/api/project'));
+app.use('/api/clock', require('./routes/api/clock'));
 
 // APP PORT & LISTEN
 const PORT = process.env.PORT || 5000;
